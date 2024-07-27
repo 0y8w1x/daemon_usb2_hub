@@ -6,5 +6,10 @@
 *.d356
 *.lck
 *.gbrjob
+*.kicad_sch
+*.xml
+*.kicad_pcb
+*.kicad_pro
+stackup.png
 /fp-info-cache
 /daemon_usb2_hub-backups
